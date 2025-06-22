@@ -1,8 +1,4 @@
 
-
-
-
-
 # 🎯 English Accent Analyzer
 
 A Python-based tool to extract audio from a public video URL (e.g., YouTube, Loom, MP4) and classify the speaker’s English accent. This can help evaluate spoken English for hiring  purposes.
@@ -113,10 +109,3 @@ MIT License
 ## 🙋‍♂️ Author
 
 Created by Bishal Niroula.
-
-Inspired by real-world hiring and language evaluation needs.
-
-
-Let me know if you want me to tailor this to your GitHub repo or add instructions for deploying on Vercel or Hugging Face Spaces!
-```
-
