@@ -1,10 +1,11 @@
 streamlit
-numpy>=1.21.0
+numpy==1.26.4
+openai-whisper==20240930
 scikit-learn
 scipy
 joblib
 librosa>=0.10
 yt-dlp
-openai-whisper
+
 torch==2.0.0
 torchaudio==2.0.1
