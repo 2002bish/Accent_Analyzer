@@ -1,10 +1,10 @@
 streamlit
-yt-dlp
+numpy
 librosa
 scikit-learn
-numpy
 scipy
 joblib
+yt-dlp
 openai-whisper
-torch
-torchaudio
+torch==2.0.1
+torchaudio==2.0.1
